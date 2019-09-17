@@ -9,3 +9,8 @@
 node_modules/
 npm-debug.*
 Thumbs.db
+js/example-JSON.js
+js/getMaxElement.js
+js/script.js
+js/test.js
+js/over-stack.js
